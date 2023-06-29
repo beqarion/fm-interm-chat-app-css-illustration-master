@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/beqarion/3-column-preview-card-component)
+- [Solution](https://github.com/beqarion/fm-interm-chat-app-css-illustration-master)
 
-- [Live Site](https://beqarion.github.io/3-column-preview-card-component/)
+- [Live Site](https://beqarion.github.io/fm-interm-chat-app-css-illustration-master/)
 
 ## My process
 
