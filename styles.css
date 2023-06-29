@@ -400,7 +400,11 @@ Booking
     max-width: 445px;
     text-align: left;
   }
+  .booking h1 {
+    letter-spacing: -0.03px;
+  }
   .booking p {
     width: 446px;
+    letter-spacing: -0.03px;
   }
 }
