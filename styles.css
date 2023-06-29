@@ -301,7 +301,7 @@ Phone
   width: 10rem;
   height: 2rem;
   border-radius: 0.625rem 0.625rem 0.625rem 0.25rem;
-  background: linear-gradient(225deg, #e844ff 0%, #8739ff 100%);
+  background: linear-gradient(225deg, #8739ff 0%, #e844ff 100%);
   box-shadow: 0px 10px 5px -5px rgba(62, 39, 83, 0.05);
 
   display: grid;
